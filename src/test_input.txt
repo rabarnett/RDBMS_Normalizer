@@ -1,0 +1,23 @@
+CoffeShopData
+3
+OrderID
+PromoCode
+DrinkIngredient
+2
+PromoCode
+DrinkIngredient
+1
+OrderID
+4
+1001
+{SUMMERFUN, JUNEVIP, MARCH}
+{Espresso, Oat Milk}
+1002
+NONE
+{Matcha, Coconut Milk, Ice}
+1003
+{SUMMERFUN, JUNEVIP}
+NONE
+1004
+NONE
+NONE
